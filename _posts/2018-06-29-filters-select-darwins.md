@@ -7,10 +7,10 @@ categories: darwin
 I apply the following filters in order to select investable Darwins:
  * At least 30% of return in the last 2 years
  * At least 2 years of TR
- * At least 1 year in Darwinex
+ * At least 1 year in Darwinex for migrated Darwins
  * At least 10 investors
- * At most a DD of 25% in the last 2 years
+ * No more than 25% of Drawdown in the last 2 years
  * A VAR value between 4 and 15
  * A Divergence greater than -0.10
  * No more than -5% of strategy's negative excursion in the last year
- * A return/risk ratio greater than 2.0 since inception 
+ * A return/risk ratio greater or equal to 2.0 since inception 

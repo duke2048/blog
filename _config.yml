@@ -18,7 +18,7 @@ title: Quantitative trading blog
 description: >- # this means to ignore newlines until "baseurl:"
   Posts about applyting quantitative techniques in trading.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://duke2048.github.io/blog" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://duke2048.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 

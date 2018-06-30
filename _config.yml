@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://duke2048.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-#github_username:  jekyll
+#telegram_username: jekyllrb
 
 # Build settings
 markdown: kramdown
@@ -30,6 +30,9 @@ plugins:
   
 minima:
   date_format: "%Y-%m-%d"
+
+#header_pages:
+# - about.md  
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -2,7 +2,7 @@
 layout: post
 title:  "Python backtest libraries"
 date:   2018-06-29 08:38:46 +0000
-categories: python
+categories: quant
 published: false
 ---
 

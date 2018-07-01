@@ -26,6 +26,8 @@ Stats|Portfolio Risk/Parity Allocation|Portfolio Equal Allocation
 Total Return|31.01%|29.36%
 Max Drawdown|-4.89%|-5.82%
 
+As we can see, a portfolio with equal allocation would get similar results. However, as exercise, this approach will be followed during 6 months. 
+
 ## Allocation for July 2018
 
 CLA|DLF|GTD|ICX|LVS|NTR|VQB

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Portfolio allocation for darwins
-date: 2018-06-29 11:03:00 +0000
+date: 2018-07-01 11:03:00 +0000
 categories: []
 ---
 We will use the Risk Parity ([wikipedia](https://en.wikipedia.org/wiki/Risk_parity)) approach to allocate our assets.
@@ -12,10 +12,9 @@ From the link above:
 
 ## Strategy
 
-1. Run monthly
-2. The darwins to invest comes from the [post]({% post_url 2018-06-29-filters-select-darwins%})
-3. Assets weights are calculate using the Risk Parity method using 1 year lookback
-4. Rebalance portfolio
+1. The darwins are selected using the approach described in the [previous post]({% post_url 2018-06-29-filters-select-darwins%})
+2. Assets weights are calculate using the Risk Parity method with 1 year lookback
+4. Rebalance portfolio each month
 
 ## Visualizing
 
@@ -24,5 +23,12 @@ The behaviour of the portfolio allocation since 2017-06 was:
 ![img](/assets/images/20180630115200.png)
 
 Stats|Portfolio Risk/Parity Allocation|Portfolio Equal Allocation
-Total Return|30.56%|28.67%
+Total Return|31.01%|29.36%
 Max Drawdown|-4.89%|-5.82%
+
+## Allocation
+
+For this 2018-07 the allocation would be:
+
+CLA|DLF|GTD|ICX|LVS|NTR|VQB
+13.52%|11.44%|18.89%|20.28%|11.98%|11.39%|12.42%

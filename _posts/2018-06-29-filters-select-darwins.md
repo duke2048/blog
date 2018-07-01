@@ -23,8 +23,8 @@ Their historical return since 2006-06 is:
 
 ![img](/assets/images/20180629215900.png)
 
-The correlation is:
+Their correlation is:
 
 ![img](/assets/images/20180629220000.png)
 
-Only 7 out of 1858 darwins pass all my filters.
+As a note, only 7 out of 1858 darwins pass all my filters.

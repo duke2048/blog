@@ -15,7 +15,11 @@ Filters to apply for selecting darwins to invest:
 * The worst strategy's negative excursion should not exceed -5% in the last year
 * A return/risk ratio greater or equal to 2.0 since inception
 
-To date, the darwins selected are:
+To date, the darwins selected are: 
+
+| CLA | DLF | GTD | ICX | LVS | NTR | VQB |
+
+Their historical return since 2006-06 is:
 
 ![img](/assets/images/20180629215900.png)
 
@@ -23,4 +27,4 @@ The correlation is:
 
 ![img](/assets/images/20180629220000.png)
 
-Only 7 out of 1858 darwins pass all my filters. 
+Only 7 out of 1858 darwins pass all my filters.

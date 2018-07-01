@@ -23,6 +23,6 @@ The behaviour of the portfolio allocation since 2017-06 was:
 
 ![img](assets/images/20180630115200.png)
 
-Stat|Portfolio Risk/Parity Allocation|Portfolio Equal Allocation
+Stats|Portfolio Risk/Parity Allocation|Portfolio Equal Allocation
 Total Return|30.56%|28.67%
-\Max Drawdown|-4.89%|-5.82%
+Max Drawdown|-4.89%|-5.82%

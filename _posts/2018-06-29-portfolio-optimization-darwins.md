@@ -2,7 +2,7 @@
 layout: post
 title: 'Basic darwins portfolio creation '
 date: 2018-06-29 11:03:00 +0000
-categories: quant
+categories: []
 ---
 We will use the Risk Parity ([wikipedia](https://en.wikipedia.org/wiki/Risk_parity)) approach to allocate our assets.
 

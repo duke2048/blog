@@ -4,7 +4,7 @@ title: My filters for selecting darwins
 date: 2018-06-29 11:00:00 +0000
 categories: darwinex
 ---
-Filters to apply for selecting darwins to invest:
+Basics filters for selecting darwins:
 
 * At least 30% of return in the last 2 years
 * At least 2 years of TR

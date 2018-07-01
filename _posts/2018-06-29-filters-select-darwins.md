@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Basics filters for selecting darwins
+title: Filters for selecting darwins
 date: 2018-06-29 11:00:00 +0000
-categories: darwinex
+categories: []
 ---
 Most of the following filters are ready to use in Darwinex:
 

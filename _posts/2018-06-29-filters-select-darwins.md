@@ -21,6 +21,6 @@ To date, the darwins selected are:
 
 The correlation is:
 
-![img](/20180629220000.png)
+![img](/assets/images/20180629220000.png)
 
 Only 7 out of 1858 darwins pass all my filters. 

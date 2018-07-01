@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Portfolio allocation for darwins
+title: Darwins portfolio allocation for July 2018
 date: 2018-07-01 11:03:00 +0000
 categories: []
 ---
@@ -14,7 +14,7 @@ From the link above:
 
 1. The darwins are selected using the approach described in the [previous post]({% post_url 2018-06-29-filters-select-darwins%})
 2. Assets weights are calculate using the Risk Parity method with 1 year lookback
-4. Rebalance portfolio each month
+3. Rebalance portfolio each month
 
 ## Visualizing
 
@@ -26,9 +26,7 @@ Stats|Portfolio Risk/Parity Allocation|Portfolio Equal Allocation
 Total Return|31.01%|29.36%
 Max Drawdown|-4.89%|-5.82%
 
-## Allocation
-
-For this 2018-07 the allocation would be:
+## Allocation for July 2018
 
 CLA|DLF|GTD|ICX|LVS|NTR|VQB
-13.52%|11.44%|18.89%|20.28%|11.98%|11.39%|12.42%
+13\.52%|11.44%|18.89%|20.28%|11.98%|11.39%|12.42%
